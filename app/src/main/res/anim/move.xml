@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:interpolator="@android:anim/linear_interpolator"
+    android:duration="2000">
+
+    // Move Up
+    <translate
+        android:fromYDelta="100%"
+        android:toYDelta="0%"/>
+    //Move Down
+    <!--<translate-->
+        <!--android:fromYDelta="0%"-->
+        <!--android:toYDelta="100%"/>-->
+    //Move Left
+    <!--<translate-->
+        <!--android:fromXDelta="100%"-->
+        <!--android:toXDelta="0%"/>-->
+    //Move Right
+    <!--<translate-->
+        <!--android:fromYDelta="0%"-->
+        <!--android:toYDelta="100%"/>-->
+
+</set>
